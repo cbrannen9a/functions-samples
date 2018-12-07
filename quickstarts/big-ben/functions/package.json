@@ -2,7 +2,9 @@
   "name": "big-ben-functions",
   "description": "A simple endpoint that returns a number of 'BONG' based on the time of day",
   "dependencies": {
-    "firebase-admin": "~6.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "firebase-admin": "~6.3.0",
     "firebase-functions": "^2.1.0"
   },
   "devDependencies": {
